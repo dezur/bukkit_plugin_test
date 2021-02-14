@@ -1,0 +1,4 @@
+name: Cicahe
+version: ${project.version}
+main: cica.cicahe.Cicahe
+api-version: 1.15
